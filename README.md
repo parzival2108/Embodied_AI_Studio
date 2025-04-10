@@ -6,6 +6,7 @@ Welcome! We train robots.
 
 We provide expert consulting and development services in key areas of Embodied AI:
 
+- **Simulation (RL/IL/Robots)**
 - **Reinforcement Learning (RL)**
 - **Imitation Learning (IL)**
 - **Data Retargeting:** Efficiently adapting motion data (e.g., video-to-robot, simulation-to-robot) for direct use on your robotic platforms.
